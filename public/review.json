@@ -1,0 +1,50 @@
+[
+  {
+    "review_id": 1,
+    "name": "Sarah Johnson",
+    "user_image": "https://i.ibb.co.com/5Lx7L6s/user1.jpg",
+    "review": "The team was incredibly professional and made me feel at ease during my procedure. Highly recommend!"
+  },
+  {
+    "review_id": 2,
+    "name": "Michael Brown",
+    "user_image": "https://i.ibb.co.com/Yb2wG0G/user2.jpg",
+    "review": "Great service and a very clean clinic. My teeth have never felt better after the cleaning!"
+  },
+  {
+    "review_id": 3,
+    "name": "Emily Davis",
+    "user_image": "https://i.ibb.co.com/VQtzPmh/user3.jpg",
+    "review": "The dentist explained everything thoroughly, and the results were amazing. I’m so happy with my new smile!"
+  },
+  {
+    "review_id": 4,
+    "name": "David Wilson",
+    "user_image": "https://i.ibb.co.com/m054k1T/user5.jpg",
+    "review": "I had a dental emergency, and they got me in right away. Excellent care and very understanding staff."
+  },
+  {
+    "review_id": 5,
+    "name": "Anna Martinez",
+    "user_image": "https://i.ibb.co.com/xm6PnG0/user6.jpg",
+    "review": "The staff is very friendly, and the dentist was gentle and thorough. I will definitely return for future treatments!"
+  },
+  {
+    "review_id": 6,
+    "name": "James Lee",
+    "user_image": "https://i.ibb.co.com/b1SGsfj/user7.jpg",
+    "review": "Amazing experience from start to finish. The clinic is state-of-the-art, and the results exceeded my expectations."
+  },
+  {
+    "review_id": 7,
+    "name": "Olivia Taylor",
+    "user_image": "https://i.ibb.co.com/Qjtf444/user8.jpg",
+    "review": "The dentist made my child feel very comfortable during the visit. I’m so grateful for their patience and kindness."
+  },
+  {
+    "review_id": 8,
+    "name": "William Harris",
+    "user_image": "https://i.ibb.co.com/5Lx7L6s/user1.jpg",
+    "review": "Highly professional and efficient. My dental implant procedure went smoothly, and I’m thrilled with the results!"
+  }
+]

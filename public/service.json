@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "treatment_name": "Teeth Whitening",
+    "treatment_description": "Brighten your smile with our advanced teeth whitening treatments, designed to remove stains and discoloration effectively.",
+    "image": "https://i.ibb.co.com/hY7y7St/white-teeth.jpg",
+    "cost": 150
+  },
+  {
+    "id": 2,
+    "treatment_name": "Dental Implants",
+    "treatment_description": "Restore your smile and improve functionality with durable and natural-looking dental implants.",
+    "image": "https://i.ibb.co.com/1n72fcT/Thinkstock-Photos-543979766.jpg",
+    "cost": 1200
+  },
+  {
+    "id": 3,
+    "treatment_name": "Orthodontic Braces",
+    "treatment_description": "Align your teeth and achieve a perfect smile with our customized orthodontic solutions, including traditional and invisible braces.",
+    "image": "https://i.ibb.co.com/crTXC48/Orthodontics-brackets.jpg",
+    "cost": 3000
+  },
+  {
+    "id": 4,
+    "treatment_name": "Root Canal Therapy",
+    "treatment_description": "Relieve pain and save your natural teeth with our gentle and effective root canal treatment.",
+    "image": "https://i.ibb.co.com/RT9tDZc/Root-Canal-Treatment.jpg",
+    "cost": 800
+  },
+  {
+    "id": 5,
+    "treatment_name": "Dental Cleaning",
+    "treatment_description": "Maintain optimal oral health with our professional dental cleaning services, removing plaque and tartar buildup.",
+    "image": "https://i.ibb.co.com/X4R3G6p/Dental-Cleaning.jpg",
+    "cost": 100
+  },
+  {
+    "id": 6,
+    "treatment_name": "Cosmetic Dentistry",
+    "treatment_description": "Enhance the aesthetics of your smile with our personalized cosmetic dentistry solutions, including veneers and bonding.",
+    "image": "https://i.ibb.co.com/HCJbM8Z/Cosmetic-Dentistry.jpg",
+    "cost": 0
+  },
+  {
+    "id": 7,
+    "treatment_name": "Wisdom Teeth Removal",
+    "treatment_description": "Safely remove impacted or problematic wisdom teeth with our expert surgical care.",
+    "image": "https://i.ibb.co.com/ctCyDXc/Wisdom-Teeth-Removal.jpg",
+    "cost": 500
+  },
+  {
+    "id": 8,
+    "treatment_name": "Emergency Dentistry",
+    "treatment_description": "Get prompt care for dental emergencies such as severe pain, broken teeth, or oral injuries.",
+    "image": "https://i.ibb.co.com/kqKyxjy/Emergency-Dentistry.jpg",
+    "cost": 0
+  }
+]
