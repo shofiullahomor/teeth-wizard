@@ -1,6 +1,5 @@
 // eslint-disable-next-line react/prop-types
 const Feedback = ({ feedbackData }) => {
-  console.log(feedbackData);
   // const { name, user_image, review } = feedbackData;
 
   return (
@@ -9,7 +8,7 @@ const Feedback = ({ feedbackData }) => {
         Our Client Say's
       </h1>
 
-      <div className="grid grid-cols-3 gap-2">
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-2">
         {feedbackData.map((feed) => (
           <div key={feed.review_id} className="p-4 m-4 bg-base-100  shadow-xl">
             <figure className=" flex justify-between gap-4 w-full">

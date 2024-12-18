@@ -1,6 +1,5 @@
 import { NavLink } from "react-router-dom";
 const ServiceCard = (service) => {
-  console.log(service);
   const { treatment_name, treatment_description, image, cost, id } =
     service.service;
   return (

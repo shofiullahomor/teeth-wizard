@@ -1,7 +1,7 @@
 import banner from "../assets/dentist.jpg";
 const Banner = () => {
   return (
-    <div>
+    <div className="my-10">
       <div className="hero bg-base-200 min-h-screen">
         <div className="hero-content flex-col lg:flex-row-reverse">
           <img src={banner} className="max-w-sm rounded-lg shadow-2xl" />

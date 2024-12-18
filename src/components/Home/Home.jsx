@@ -15,9 +15,13 @@ const Home = () => {
           <ServiceCard key={service.id} service={service}></ServiceCard>
         ))}
       </div>
-      <button className="btn btn-primary">
-        <NavLink to="/allTreatment">Show more</NavLink>
-      </button>
+      <div className="my-4 flex justify-center">
+        <div></div>
+        <button className="btn btn-md w-full   mx-auto">
+          <NavLink to="/allTreatment">Show more</NavLink>
+        </button>
+        <div></div>
+      </div>
 
       <Feedback feedbackData={feedbackData}></Feedback>
     </div>

@@ -1,4 +1,5 @@
 import { useLoaderData } from "react-router-dom";
+import Modal from "./Modal";
 
 const Details = () => {
   const { treatment_name, treatment_description, image, cost } =
@@ -21,6 +22,7 @@ const Details = () => {
           Book Now
         </button>
       </div>
+      <Modal treatment_name={treatment_name}></Modal>
     </div>
   );
 };
